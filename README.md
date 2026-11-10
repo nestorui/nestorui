@@ -1,16 +1,32 @@
-## Hi there 👋
+## Ernesto Rui Amaral
 
-<!--
-**nestorui/nestorui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***BSc in Economics UFRJ***
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+First got into coding to automate trading strategies
+
+---
+## Tech Stack
+
+**Languages** 
+<br>
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+<img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
+
+### Data Analysis & Visualization
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40" alt="R" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="40" alt="Plotly" />
+
+### Infrastructure
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" />
+<br>
+
+## Interests:
+
+- Signal Processing
+- Time Series
+- Data Analisys
+<br>
